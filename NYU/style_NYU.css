@@ -1,0 +1,31 @@
+body {
+	background-color: antiquewhite
+}
+
+div.main_heading {
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+	background-color: #FFE5CC
+} 
+
+
+div.sub_section_1 {
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+	font-size: medium;
+	background-color: #FFCC99;
+	font-family: "Courier", Serif;		
+} 
+
+
+div.sub_section_2 {
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+	font-size: medium;
+	background-color: #FFB266;
+	font-family: "Courier", Serif;		
+} 
+
