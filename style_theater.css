@@ -1,12 +1,12 @@
 body {
-	background-color: #98FF21
+	background-color: #A0A0A0
 }
 
 div.main_heading {
     color: black;
     margin: 20px 0 20px 0;
     padding: 20px;
-	background-color: #00BAFD
+	background-color: #808080
 } 
 
 
@@ -15,7 +15,7 @@ div.sub_section_1 {
     margin: 20px 0 20px 0;
     padding: 20px;
 	font-size: medium;
-	background-color: #0481AF;
+	background-color: #A0A0A0;
 	font-family: "Courier", Serif;		
 } 
 
@@ -25,7 +25,7 @@ div.sub_section_2 {
     margin: 20px 0 20px 0;
     padding: 20px;
 	font-size: medium;
-	background-color: #0C3544;
+	background-color: #C0C0C0;
 	font-family: "Courier", Serif;		
 } 
 
